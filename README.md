@@ -3,4 +3,4 @@
 ### Commands:
 * /start - start the bot;
 * /list - get the currency list;
-* /exchange - covert currency, formats:("/exchange 10 USD to CAD", "/exchange $10 to CAD");
+* /exchange - convert currency, formats:("/exchange 10 USD to CAD", "/exchange $10 to CAD");
